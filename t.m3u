@@ -1,0 +1,74 @@
+#EXTM3U
+#EXTINF:0,GOL PERU
+#EXTVLCOPT:network-caching=1000
+http://190.104.216.42:2040/main
+#EXTINF:0,TNT SPORT PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://190.104.216.42:2030/2.ts
+#EXTINF:0,ESPN  PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://190.104.216.42:2030/12.ts
+#EXTINF:0,TIGO SPORT
+#EXTVLCOPT:network-caching=1000
+http://190.104.216.42:2030/14.ts
+#EXTINF:0,Canal 13 
+#EXTVLCOPT:network-caching=1000
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:0,Canal NUEVE
+#EXTVLCOPT:network-caching=1000
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:0,América TV 
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:0,TELEFE Mar del Plata (720p)
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+#EXTINF:0,TV Pública ARGENTINA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
+#EXTINF:0,NET tv
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0,TELEMAX ARG
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0,TN  TODO NOTICIAS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/todonoticias/live
+#EXTINF:0, LN+ La Nacion
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
+#EXTINF:0, CANAL 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8
+#EXTINF:0, A 24
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/live
+#EXTINF:0, C5N
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live
+#EXTINF:30, America SPORT
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
+#EXTINF:0, Paka Paka | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Latino Kids TV * | UY
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,neotvdigital.m3u8
+#EXTVLCOPT:network-caching=1000
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:0,TOP CINE
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:0,RED BULL
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0, TOP LATINO- musica latina
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:0, TRACE LATINA
+http://78.129.237.68/tsstreamer/TraceLatinaLDAI_SD.ts
+#EXTINF:0, URBANA TV - musica
+https://srv.panelcast.net/urbantv/urbantv/playlist.m3u8
+#EXTINF:0, FARRA PLAY  -  paraguay 
+http://159.203.148.226/live/farra.m3u8
+#EXTINF:0, V O R T E R I X    musica
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
+#EXTINF:0,OXIGENO MUSIC
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:0,WOW
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:0, Bolivision
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+#EXTINF:0, Bolivia tv
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:0, SNT  py
+https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
